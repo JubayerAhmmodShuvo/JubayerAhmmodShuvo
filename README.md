@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/jubayerahmmod" target="blank"><img src="https://img.shields.io/twitter/follow/jubayerahmmod?logo=twitter&style=for-the-badge" alt="jubayerahmmod" /></a></p>
 
 [![Linkedin: jubayerahmmodshuvo](https://img.shields.io/badge/-jubayerahmmodshuvo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jubayerahmmodshuvo/)](https://www.linkedin.com/in/jubayerahmmodshuvo/)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="500" height="400" />
+<img align="right" alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" width="500" height="400" />
 
 
 
