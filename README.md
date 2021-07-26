@@ -6,9 +6,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jubayerahmmodshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerahmmodshuvo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jubayerahmmod" target="blank"><img src="https://img.shields.io/twitter/follow/jubayerahmmod?logo=twitter&style=for-the-badge" alt="jubayerahmmod" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jubayerahmmod" target="blank"><img src="https://img.shields.io/twitter/follow/jubayerahmmod?logo=twitter&style=for-the-badge" alt="jubayerahmmod" /></a> 
 
-[![Linkedin: jubayerahmmodshuvo](https://img.shields.io/badge/-jubayerahmmodshuvo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jubayerahmmodshuvo/)](https://www.linkedin.com/in/jubayerahmmodshuvo/)
+[![Linkedin: jubayerahmmodshuvo](https://img.shields.io/badge/-jubayerahmmodshuvo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jubayerahmmodshuvo/)](https://www.linkedin.com/in/jubayerahmmodshuvo/)</p>
+
+
 
 - 🔭 I’m currently working on **Web Development**
 
