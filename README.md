@@ -58,6 +58,10 @@
  <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jubayerahmmodshuvo&show_icons=true&locale=en&layout=compact" alt="jubayerahmmodshuvo" /></p>
 
+<a href="https://github.com/JubayerAhmmodShuvo">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubayerAhmmodShuvo&theme=default&hide_langs_below=1" />
+</a>
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jubayerahmmodshuvo&show_icons=true&locale=en" alt="jubayerahmmodshuvo" /></p>
 
 
