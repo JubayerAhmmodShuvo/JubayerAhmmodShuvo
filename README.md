@@ -34,9 +34,6 @@
 
 - ⚡ Fun fact **I forget everything when I am in front of my Desktop with headphones on☺❤**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
