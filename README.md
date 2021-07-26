@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jubayerahmmod" target="blank"><img src="https://img.shields.io/twitter/follow/jubayerahmmod?logo=twitter&style=for-the-badge" alt="jubayerahmmod" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/jubayerahmmodshuvo/" target="blank"><img src="https://img.shields.io/linkedin/follow/jubayerahmmodshuvo?logo=linkedin&style=for-the-badge" alt="jubayerahmmodshuvo" /></a> </p>
+[![Linkedin: jubayerahmmodshuvo](https://img.shields.io/badge/-jubayerahmmodshuvo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jubayerahmmodshuvo/)](https://www.linkedin.com/in/jubayerahmmodshuvo/)
 
 - 🔭 I’m currently working on **Web Development**
 
