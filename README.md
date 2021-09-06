@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js, Djangjo, Node.js**
 
 - 👯 I’m looking to collaborate on **Development projects**
 
