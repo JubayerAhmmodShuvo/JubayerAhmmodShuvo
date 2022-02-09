@@ -33,7 +33,7 @@
 
 - 📄 Know about my experiences [jubayerahmmod.me](jubayerahmmod.me)
 
-- ⚡ Fun fact **I forget everything when I am in front of my Desktop with headphones on☺❤**
+- ⚡ Fun fact **Now a days one of my most common thing is remembering previous thing☺❤**
 
 <br>
 
