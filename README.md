@@ -66,4 +66,4 @@
 <br>
 <br>
 
-<p><img style="margin-top=30px" align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmmodshuvo&" alt="jubayerahmmodshuvo" /></p>
+<p><img style="margin-top=30px;" align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmmodshuvo&" alt="jubayerahmmodshuvo" /></p>
