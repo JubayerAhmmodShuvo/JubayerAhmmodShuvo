@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Full-Stack Developer From Bangladesh</h3>
 
-<h4 align="center">Student Of Daffodil International University</h4>
+<!-- <h4 align="center">Student Of Daffodil International University</h4> -->
 <br>
 
 
