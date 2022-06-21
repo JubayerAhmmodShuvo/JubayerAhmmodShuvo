@@ -27,9 +27,9 @@
 
 - 👨‍💻 All of my projects are available at [jubayerahmmod.com](jubayerahmmod.com)
 
-- 💬 Ask me about **Developing**
+- 💬 Ask me about **BlockChain And Development**
 
-- 📫 How to reach me **jubayer15-10807@diu.edu.bd**
+- 📫 How to reach me **jubayerahmmod@gmail.com**
 
 - 📄 Know about my experiences [jubayerahmmod.me](jubayerahmmod.me)
 
