@@ -11,11 +11,18 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jubayerahmmodshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerahmmodshuvo" /> </p>
 <p align="right"> <img src="https://profile-counter.glitch.me/ju/count.svg?username=jubayerahmmodshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerahmmodshuvo" /> </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&custom_title=Jubayer's  GitHub Stats&username=ju" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&username=ju" height="150" alt="languages graph"  />
+</div>
+
 
 <!-- <p align="left"> <a href="https://twitter.com/jubayerahmmod" target="blank"><img src="https://img.shields.io/twitter/follow/jubayerahmmod?logo=twitter&style=for-the-badge" alt="jubayerahmmod" /></a></p> -->
 
 [![Linkedin: jubayerahmmodshuvo](https://img.shields.io/badge/-jubayerahmmodshuvo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jubayerahmmodshuvo/)](https://www.linkedin.com/in/jubayerahmmodshuvo/)
 <img align="right" alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" width="500" height="400" />
+
+
 
 
 
