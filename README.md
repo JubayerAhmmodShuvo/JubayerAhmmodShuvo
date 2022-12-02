@@ -6,6 +6,10 @@
 <!-- <h4 align="center">Student Of Daffodil International University</h4> -->
 <br>
 
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jubayerahmmodshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerahmmodshuvo" /> </p>
