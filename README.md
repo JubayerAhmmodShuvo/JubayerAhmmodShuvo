@@ -7,6 +7,21 @@
 <br>
 
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   7 hrs 12 mins   █████████████████░░░░░░░░   68.25 %
+JSON         1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+JavaScript   1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Bash         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+GraphQL      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+```
+
+<!--END_SECTION:waka-->
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jubayerahmmodshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerahmmodshuvo" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/jubayerahmmod" target="blank"><img src="https://img.shields.io/twitter/follow/jubayerahmmod?logo=twitter&style=for-the-badge" alt="jubayerahmmod" /></a></p> -->
