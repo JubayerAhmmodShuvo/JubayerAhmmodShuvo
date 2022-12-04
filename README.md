@@ -63,10 +63,9 @@
 
 <p><a href="https://www.linkedin.com/in/jubayerahmmodshuvo/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Jubayer Ahmmod Shuvo" /></a></p>
 <br>
+
 <br>
-<br>
-<br>
-<!--START_SECTION:waka-->
+<p height="50" width="210"  <!--START_SECTION:waka-->
 
 ```text
 JavaScript   45 mins         ████████████████████████▒   97.85 %
@@ -74,7 +73,7 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--></p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
