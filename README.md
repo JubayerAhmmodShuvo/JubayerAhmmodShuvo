@@ -11,6 +11,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jubayerahmmodshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerahmmodshuvo" /> </p>
 <p align="right"> <img src="https://profile-counter.glitch.me/ju/count.svg?username=jubayerahmmodshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerahmmodshuvo" /> </p>
 
+<p> <a https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white ></a> </p>
+
 
 
 
