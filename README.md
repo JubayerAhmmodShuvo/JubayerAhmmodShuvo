@@ -5,7 +5,7 @@
 
 <!-- <h4 align="center">Student Of Daffodil International University</h4> -->
 <br>
-<a href="https://linkedin.com/in/jubayerahmmodshuvo" target="blank"><img align="center" src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="jubayer2618" height="30" width="40" /></a>
+<!--<a href="https://linkedin.com/in/jubayerahmmodshuvo" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jubayer2618" height="35" width="80" /></a> -->
 
 
 
