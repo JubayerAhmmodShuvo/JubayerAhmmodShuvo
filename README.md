@@ -62,9 +62,13 @@
   <!--START_SECTION:waka-->
 
 ```text
-JavaScript   45 mins         ████████████████████████▒   97.85 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+From: 03 December 2022 - To: 04 December 2022
+
+Total Time: 46 mins
+
+JavaScript   45 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   97.85 %
+JSON         0 secs          -------------------------   01.95 %
+Other        0 secs          -------------------------   00.20 %
 ```
 
 <!--END_SECTION:waka-->
