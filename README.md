@@ -62,14 +62,11 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 05 December 2022
-
-Total Time: 1 hr 42 mins
-
-JavaScript   58 mins         >>>>>>>>>>>>>>-----------   57.36 %
-C++          42 mins         >>>>>>>>>>---------------   41.66 %
-JSON         0 secs          -------------------------   00.89 %
-Other        0 secs          -------------------------   00.09 %
+TypeScript   7 hrs 9 mins    ███████████████████████▓░   94.37 %
+JavaScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
