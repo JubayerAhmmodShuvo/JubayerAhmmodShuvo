@@ -62,16 +62,15 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 04 May 2023
+From: 27 April 2023 - To: 04 May 2023
 
-Total Time: 11 hrs 29 mins
+Total Time: 7 hrs 35 mins
 
-TypeScript   7 hrs 9 mins    >>>>>>>>>>>>>>>>---------   62.26 %
-C++          2 hrs 25 mins   >>>>>--------------------   21.16 %
-JavaScript   1 hr 41 mins    >>>>---------------------   14.72 %
-JSON         11 mins         -------------------------   01.61 %
-TSConfig     0 secs          -------------------------   00.11 %
-Other        0 secs          -------------------------   00.10 %
+TypeScript   7 hrs 9 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   94.37 %
+JavaScript   14 mins         >------------------------   03.20 %
+JSON         10 mins         >------------------------   02.23 %
+TSConfig     0 secs          -------------------------   00.17 %
+Other        0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
