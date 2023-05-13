@@ -62,16 +62,16 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 04 May 2023 - To: 11 May 2023
+From: 05 May 2023 - To: 12 May 2023
 
-Total Time: 3 hrs 40 mins
+Total Time: 2 hrs 20 mins
 
-TypeScript   3 hrs 5 mins    >>>>>>>>>>>>>>>>>>>>>----   84.16 %
-Markdown     25 mins         >>>----------------------   11.61 %
-JavaScript   2 mins          -------------------------   01.30 %
-TSConfig     2 mins          -------------------------   01.19 %
-Git Config   1 min           -------------------------   00.87 %
-JSON         1 min           -------------------------   00.87 %
+TypeScript   1 hr 45 mins    >>>>>>>>>>>>>>>>>>>------   75.21 %
+Markdown     25 mins         >>>>>--------------------   18.16 %
+JavaScript   2 mins          >------------------------   02.04 %
+TSConfig     2 mins          -------------------------   01.86 %
+Git Config   1 min           -------------------------   01.37 %
+JSON         1 min           -------------------------   01.36 %
 ```
 
 <!--END_SECTION:waka-->
