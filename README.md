@@ -62,14 +62,17 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 14 June 2023
+From: 08 June 2023 - To: 15 June 2023
 
-Total Time: 9 hrs 21 mins
+Total Time: 8 hrs 15 mins
 
-TypeScript   9 hrs 20 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.88 %
-Bash         0 secs          -------------------------   00.09 %
-HTML         0 secs          -------------------------   00.01 %
-Other        0 secs          -------------------------   00.01 %
+TypeScript   8 hrs 13 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.58 %
+Bash         0 secs          -------------------------   00.17 %
+Other        0 secs          -------------------------   00.08 %
+JSON         0 secs          -------------------------   00.07 %
+Git Config   0 secs          -------------------------   00.05 %
+HTML         0 secs          -------------------------   00.02 %
+TSConfig     0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
