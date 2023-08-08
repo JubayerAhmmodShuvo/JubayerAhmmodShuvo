@@ -62,11 +62,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2023 - To: 06 August 2023
+From: 31 July 2023 - To: 07 August 2023
 
-Total Time: 49 mins
+Total Time: 1 hr 48 mins
 
-SQL   49 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+SQL   1 hr 47 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
