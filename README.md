@@ -62,16 +62,16 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2023 - To: 20 October 2023
+From: 14 October 2023 - To: 21 October 2023
 
-Total Time: 66 hrs 43 mins
+Total Time: 61 hrs 1 min
 
-TypeScript   65 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.70 %
-Markdown     17 mins         -------------------------   00.45 %
-JSON         11 mins         -------------------------   00.30 %
-CSS          7 mins          -------------------------   00.20 %
-Bash         6 mins          -------------------------   00.17 %
-JavaScript   5 mins          -------------------------   00.13 %
+TypeScript   60 hrs 13 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.69 %
+Markdown     17 mins         -------------------------   00.49 %
+CSS          7 mins          -------------------------   00.21 %
+JSON         7 mins          -------------------------   00.21 %
+Bash         6 mins          -------------------------   00.19 %
+JavaScript   5 mins          -------------------------   00.14 %
 Assembly     1 min           -------------------------   00.03 %
 Python       0 secs          -------------------------   00.02 %
 Other        0 secs          -------------------------   00.01 %
