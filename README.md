@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **jubayerahmmod@gmail.com**
 
-- 📄 Know about my experiences [Jubayer Ahmmod](https://drive.google.com/file/d/1wk24BBIEaTF07mSRSVRzmTdwn2dkwZw7/view?usp=sharing)
+- 📄 Know about my experiences  [Jubayer_Ahmmod](https://jubayerahmmodshuvo.vercel.app/)
 
 - ⚡ Fun fact **Now a days one of my most common thing is remembering previous thing☺❤**
 
