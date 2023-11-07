@@ -26,9 +26,9 @@
 
 
 
-- 🔭 I’m currently working on **Web 3**
+- 🔭 I’m currently working on **FULL-STACK DEVELOPMENT**
 
-- 🌱 I’m currently learning **React.js, Djangjo, Node.js, Solidity**
+- 🌱 I’m currently learning **Docker AWS**
 
 - 👯 I’m looking to collaborate on **Development projects**
 
