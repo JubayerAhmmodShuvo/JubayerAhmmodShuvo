@@ -62,7 +62,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 12 November 2023
+From: 06 November 2023 - To: 13 November 2023
 
 Total Time: 1 hr 20 mins
 
@@ -72,7 +72,6 @@ JavaScript   5 mins          >>-----------------------   07.13 %
 Other        5 mins          >>-----------------------   07.12 %
 Git Config   0 secs          -------------------------   00.22 %
 Markdown     0 secs          -------------------------   00.05 %
-Bash         0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
