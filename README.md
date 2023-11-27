@@ -13,6 +13,23 @@
 [![Linkedin: jubayerahmmodshuvo](https://img.shields.io/badge/-jubayerahmmodshuvo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jubayerahmmodshuvo/)](https://www.linkedin.com/in/jubayerahmmodshuvo/) 
 <img align="right" src="https://komarev.com/ghpvc/?username=jubayerahmmodshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerahmmodshuvo" />
 
+### aboutMe.js
+
+```javascript
+const Shuvo = {
+    pronouns: "he" | "him",
+    code: [Javascript, C, C++],
+    askMeAbout: ["web dev", "tech", "ideas", "coffee"],
+    technologies: {
+        frontEnd: {
+            css: ["react.js", "next.js", "redux", "typescript", "bootstrap", "materialize", "tailwind", "ant-design"]
+        },
+        backEnd: {
+            js: ["firebase", "node", "mongoDB", "prisma"]
+        }        
+    }
+};
+```
 
 
 
@@ -24,7 +41,7 @@
 
 
 <br>
-<img align="right" alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" width="500" height="400" />
+<!-- <img align="right" alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" width="500" height="400" /> -->
 
 
 
