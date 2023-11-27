@@ -66,10 +66,7 @@ const Shuvo = {
 - ⚡ Fun fact **Now a days one of my most common thing is remembering previous thing☺❤**
 
 <br>
-<p align="center">
-  <img alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" style="width: 100%;" height="400" />
-</p>
-<div style="clear: both;"></div>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -83,6 +80,11 @@ const Shuvo = {
 <a href="https://medium.com/@jubayer2618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jubayer2618" height="30" width="40" /></a>
 </p>
 <br>
+
+<p align="center">
+  <img alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" style="width: 100%;" height="400" />
+</p>
+<div style="clear: both;"></div>
   
   
   
