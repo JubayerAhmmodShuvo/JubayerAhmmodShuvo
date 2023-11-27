@@ -67,8 +67,7 @@ const Shuvo = {
 
 <br>
 <img align="right" alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" style="width: 100%;" height="400" />
-<br>
-
+<div style="clear: both;"></div>
 
 
 <h3 align="left">Connect with me:</h3>
