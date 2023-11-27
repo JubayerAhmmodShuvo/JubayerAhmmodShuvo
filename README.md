@@ -81,9 +81,10 @@ const Shuvo = {
 </p>
 <br>
 
-<p align="center">
-  <img alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" style="width: 100%;" height="400" />
-</p>
+<div align="center">
+  <img src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" alt="GIF" style="width: 100%; max-width: 100%;" height="400" />
+</div>
+
 <div style="clear: both;"></div>
   
   
