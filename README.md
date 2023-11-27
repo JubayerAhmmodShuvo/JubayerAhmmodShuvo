@@ -19,6 +19,7 @@
 const Shuvo = {
     pronouns: "he" | "him",
     code: [Javascript, C, C++],
+    university: ["Daffodil International University"],
     askMeAbout: ["web dev", "tech", "ideas", "coffee"],
     technologies: {
         frontEnd: {
