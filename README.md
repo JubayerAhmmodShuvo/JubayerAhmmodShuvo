@@ -24,7 +24,7 @@
 
 
 <br>
-<!-- <img align="right" alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" width="500" height="400" /> -->
+<img align="right" alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" width="500" height="400" />
 
 
 
@@ -102,5 +102,3 @@ Other        0 secs          -------------------------   01.07 %
 
 
 <p><img  align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmmodshuvo&" alt="jubayerahmmodshuvo" /></p>
-
-
