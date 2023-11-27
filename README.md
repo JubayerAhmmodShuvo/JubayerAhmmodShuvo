@@ -42,7 +42,6 @@ const Shuvo = {
 
 
 <br>
-<!-- <img align="right" alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" width="500" height="400" /> -->
 
 
 
@@ -81,6 +80,7 @@ const Shuvo = {
 <a href="https://medium.com/@jubayer2618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jubayer2618" height="30" width="40" /></a>
 </p>
 <br>
+<img align="right" alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" style="width: 100%;" height="400" />
   <!--START_SECTION:waka-->
 
 ```txt
