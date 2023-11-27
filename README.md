@@ -66,7 +66,7 @@ const Shuvo = {
 - ⚡ Fun fact **Now a days one of my most common thing is remembering previous thing☺❤**
 
 <br>
-<img  alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" style="width: 100%;" height="400" />
+<img align="center" alt="GIF" src="https://github.com/JubayerAhmmodShuvo/JubayerAhmmodShuvo/blob/main/code.gif?raw=true" style="width: 100%;" height="400" />
 <div style="clear: both;"></div>
 
 
