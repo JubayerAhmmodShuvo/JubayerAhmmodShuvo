@@ -92,7 +92,7 @@ const Shuvo = {
   <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2023 - To: 29 November 2023
+From: 23 November 2023 - To: 30 November 2023
 
 Total Time: 10 hrs 6 mins
 
