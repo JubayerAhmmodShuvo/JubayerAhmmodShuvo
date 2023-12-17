@@ -55,13 +55,13 @@ const Shuvo = {
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 👨‍💻 All of my projects are available at [AllProjects](https://jubayerahmmodshuvo.vercel.app/allproject).
-- 
+- 👨‍💻 All of my projects are available at <a href="https://jubayerahmmodshuvo.vercel.app/allproject" target="_blank">AllProjects</a>
+
 - 💬 Ask me about **BlockChain And Development**
 
-- 📫 How to reach me **jubayerahmmod@gmail.com**
+- 📫 How to reach me **<a href="mailto:jubayerahmmod@gmail.com" target="_blank">jubayerahmmod@gmail.com</a>**
 
-- 📄 Know about my experiences  [Jubayer_Ahmmod](https://jubayerahmmodshuvo.vercel.app/).
+- 📄 Know about my experiences  <a href="https://jubayerahmmodshuvo.vercel.app/" target="_blank">Jubayer_Ahmmod</a>
 
 - ⚡ Fun fact **Now a days one of my most common thing is remembering previous thing☺❤**
 
