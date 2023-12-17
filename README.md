@@ -55,7 +55,7 @@ const Shuvo = {
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 👨‍💻 All of my projects are available at [jubayerahmmod.com]([jubayerahmmod.com](https://jubayerahmmodshuvo.vercel.app/))
+- 👨‍💻 All of my projects are available at [AllProjects](https://jubayerahmmodshuvo.vercel.app/allproject)
 
 - 💬 Ask me about **BlockChain And Development**
 
