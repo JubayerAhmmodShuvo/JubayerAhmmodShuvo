@@ -1,24 +1,38 @@
 <h1 align="center">Assalamualaikum 👋, I'm Jubayer Ahmmod Shuvo.</h1>
 
-<h1 align="center"><span id="name"></span></h1>
-
-<script>
-  const nameElement = document.getElementById('name');
-  const fullName = 'Jubayer Ahmmod Shuvo';
-
-  function typeText(element, text, index = 0) {
-    if (index < text.length) {
-      element.innerHTML += text.charAt(index);
-      index++;
-      setTimeout(() => typeText(element, text, index), 100); // Adjust the delay as needed
-    }
+<h1 align="center">{{ typer "Assalamualaikum , I'm Jubayer Ahmmod Shuvo." 80 }}</h1>
+<style>
+  .typing-animation {
+    font-family: sans-serif;
+    animation: typing 3s steps(17) ease-in-out;
   }
 
-  // Start typing the name when the page loads
-  typeText(nameElement, fullName);
+  @keyframes typing {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+</style>
+
+<span class="typing-animation">Assalamualaikum , I'm Jubayer Ahmmod Shuvo.</span>
+<script>
+  const nameEl = document.querySelector('.typing-animation');
+  const letters = nameEl.textContent.split('');
+
+  let i = 0;
+  const typeLetter = () => {
+    if (i < letters.length) {
+      nameEl.textContent += letters[i];
+      setTimeout(typeLetter, 80); // Adjust delay here
+      i++;
+    }
+  };
+
+  typeLetter();
 </script>
-
-
 
 
 <h3 align="center">A passionate Full-Stack Developer From Bangladesh</h3>
