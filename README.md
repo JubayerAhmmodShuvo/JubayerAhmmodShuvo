@@ -1,6 +1,23 @@
 <h1 align="center">Assalamualaikum 👋, I'm Jubayer Ahmmod Shuvo.</h1>
 
-<h1 align="center">{{ typer "Assalamualaikum , I'm Jubayer Ahmmod Shuvo." 80 }}</h1>
+<h1 align="center"><span id="name"></span></h1>
+
+<script>
+  const nameElement = document.getElementById('name');
+  const fullName = 'Jubayer Ahmmod Shuvo';
+
+  function typeText(element, text, index = 0) {
+    if (index < text.length) {
+      element.innerHTML += text.charAt(index);
+      index++;
+      setTimeout(() => typeText(element, text, index), 100); // Adjust the delay as needed
+    }
+  }
+
+  // Start typing the name when the page loads
+  typeText(nameElement, fullName);
+</script>
+
 
 
 
