@@ -1,5 +1,38 @@
 <h1 align="center">Assalamualaikum 👋, I'm Jubayer Ahmmod Shuvo.</h1>
 
+<h1 align="center">
+  <span id="word1">Assalamualaikum</span>
+  <span id="word2" style="display:none;">👋,</span>
+  <span id="word3" style="display:none;">I'm</span>
+  <span id="word4" style="display:none;">Jubayer</span>
+  <span id="word5" style="display:none;">Ahmmod</span>
+  <span id="word6" style="display:none;">Shuvo.</span>
+</h1>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // Set a delay for each word
+    setTimeout(function () {
+      document.getElementById('word2').style.display = 'inline';
+    }, 1000);
+
+    setTimeout(function () {
+      document.getElementById('word3').style.display = 'inline';
+    }, 2000);
+
+    setTimeout(function () {
+      document.getElementById('word4').style.display = 'inline';
+    }, 3000);
+
+    setTimeout(function () {
+      document.getElementById('word5').style.display = 'inline';
+    }, 4000);
+
+    setTimeout(function () {
+      document.getElementById('word6').style.display = 'inline';
+    }, 5000);
+  });
+</script>
 
 
 
