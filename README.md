@@ -94,14 +94,14 @@ const Shuvo = {
   <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2023 - To: 20 December 2023
+From: 14 December 2023 - To: 21 December 2023
 
-Total Time: 4 mins
+Total Time: 1 min
 
-TeX            3 mins          >>>>>>>>>>>>>>>>>>>>>----   82.81 %
-OpenEdge ABL   0 secs          >>-----------------------   07.47 %
-TypeScript     0 secs          >------------------------   04.87 %
-CSS            0 secs          >------------------------   04.85 %
+TeX            0 secs          >>>>>>>>>>>>-------------   49.31 %
+OpenEdge ABL   0 secs          >>>>>>-------------------   22.03 %
+TypeScript     0 secs          >>>>---------------------   14.35 %
+CSS            0 secs          >>>>---------------------   14.30 %
 ```
 
 <!--END_SECTION:waka-->
