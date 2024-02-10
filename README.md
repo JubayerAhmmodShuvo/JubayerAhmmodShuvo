@@ -94,7 +94,7 @@ const Shuvo = {
   <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2024 - To: 08 February 2024
+From: 02 February 2024 - To: 09 February 2024
 
 Total Time: 6 hrs 49 mins
 
