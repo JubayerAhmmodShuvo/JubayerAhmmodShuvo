@@ -94,17 +94,20 @@ const Shuvo = {
   <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2024 - To: 06 May 2024
+From: 30 April 2024 - To: 07 May 2024
 
-Total Time: 11 hrs 4 mins
+Total Time: 9 hrs 48 mins
 
-TypeScript   9 hrs 37 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.98 %
-CSS          1 hr 10 mins    >>>----------------------   10.65 %
-JavaScript   8 mins          -------------------------   01.32 %
-Other        3 mins          -------------------------   00.54 %
-JSON         2 mins          -------------------------   00.32 %
-Bash         1 min           -------------------------   00.18 %
-Markdown     0 secs          -------------------------   00.01 %
+TypeScript    8 hrs 7 mins    >>>>>>>>>>>>>>>>>>>>>----   82.87 %
+CSS           1 hr 27 mins    >>>>---------------------   14.86 %
+Other         3 mins          -------------------------   00.61 %
+JavaScript    2 mins          -------------------------   00.45 %
+JSON          2 mins          -------------------------   00.36 %
+Git           1 min           -------------------------   00.25 %
+Image (svg)   1 min           -------------------------   00.22 %
+Bash          1 min           -------------------------   00.21 %
+Image         0 secs          -------------------------   00.16 %
+Markdown      0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
