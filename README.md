@@ -124,7 +124,7 @@ Image (svg)   0 secs          -------------------------   00.01 %
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubayerAhmmodShuvo&theme=default&hide_langs_below=1" />
 </a>
 
-<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jubayerahmmodshuvo&show_icons=true&locale=en" alt="jubayerahmmodshuvo" /></p> !-->
+ <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jubayerahmmodshuvo&show_icons=true&locale=en" alt="jubayerahmmodshuvo" /></p> 
 
 
 <br>
