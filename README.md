@@ -94,12 +94,13 @@ const Shuvo = {
   <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2025 - To: 17 July 2025
+From: 11 July 2025 - To: 18 July 2025
 
-Total Time: 2 hrs 8 mins
+Total Time: 2 hrs 34 mins
 
-TypeScript   2 hrs 8 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.73 %
-Other        0 secs          -------------------------   00.27 %
+TypeScript   2 hrs 8 mins    >>>>>>>>>>>>>>>>>>>>>----   83.16 %
+C++          25 mins         >>>>---------------------   16.61 %
+Other        0 secs          -------------------------   00.22 %
 ```
 
 <!--END_SECTION:waka-->
