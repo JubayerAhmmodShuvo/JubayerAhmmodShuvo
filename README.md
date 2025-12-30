@@ -27,7 +27,7 @@ const Shuvo = {
             css: ["react.js", "next.js", "redux", "typescript", "bootstrap", "materialize", "tailwind", "ant-design"]
         },
         backEnd: {
-            js: ["firebase", "node", "mongoDB", "prisma"]
+            js: ["firebase", "node","express.js", "mongoDB", "prisma"]
         }        
     }
 };
