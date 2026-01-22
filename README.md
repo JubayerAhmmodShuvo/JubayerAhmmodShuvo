@@ -94,7 +94,7 @@ const Shuvo = {
   <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2026 - To: 20 January 2026
+From: 14 January 2026 - To: 21 January 2026
 
 Total Time: 18 mins
 
