@@ -62,7 +62,7 @@ const Shuvo = {
 
 - 📫 How to reach me **<a href="mailto:jubayerahmmod@gmail.com" target="_blank">jubayerahmmod@gmail.com</a>**
 
-- 📄 Know about my experiences  <a href="https://jubayerahmmodshuvo.vercel.app/" target="_blank">Jubayer_Ahmmod</a>
+- 📄 Know about my experiences  <a href="https://www.jubayerahmmodshuvo.me/" target="_blank">Jubayer_Ahmmod</a>
 
 - ⚡ Fun fact **Now a days one of my most common thing is remembering previous thing☺❤**
 
