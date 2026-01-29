@@ -50,7 +50,7 @@ const Shuvo = {
 
 - 🔭 I’m currently working on **FULL-STACK DEVELOPMENT**
 
-- 🌱 I’m currently learning **Docker AWS**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Development projects**
 
